@@ -57,7 +57,7 @@ ai-email-agent/
 └── .gitignore( contains .env,email_agent_credentials.json and  credentials.json )
 
 
-
+---
 
 ## 📱 Screenshots
 
