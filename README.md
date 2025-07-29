@@ -58,7 +58,7 @@ ai-email-agent/
 
 
 
-
+---
 ## 📱 Screenshots
 
 
@@ -73,7 +73,7 @@ ai-email-agent/
   
 
 
-
+---
 ## ⚙️ Setup Instructions
 
 ### 1. ✅ Clone the Repo
@@ -92,4 +92,4 @@ python test_modals.py
 
 5. 🚀 Start the Email Agent
 python app/main.py
-
+---
