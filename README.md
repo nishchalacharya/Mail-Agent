@@ -4,17 +4,7 @@ This project builds an **AI email assistant** that reads incoming emails, unders
 
 ---
 
-## 📱 Screenshots
-
-
- ![Screenshot1](screenshots/1.png)
-
-  
-
- ![Screenshot2](screenshots/2.png)  
-  
-
-![Screenshot3](screenshots/3.png)  
+ 
 
 ## ✨ Features
 
@@ -68,12 +58,18 @@ ai-email-agent/
 └── README.md
 └── .gitignore( contains .env,email_agent_credentials.json and  credentials.json )
 
+```
+## 📱 Screenshots
 
 
-
+ ![Screenshot1](screenshots/1.png)
 
   
 
+ ![Screenshot2](screenshots/2.png)  
+  
+
+![Screenshot3](screenshots/3.png) 
 
 
 ## ⚙️ Setup Instructions
