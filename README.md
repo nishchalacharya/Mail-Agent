@@ -88,6 +88,6 @@ pip install -r requirements.txt
 ###4. Run the test-Agent
 python test_modals.py
 
-5. 🚀 Start the Email Agent
+###5. 🚀 Start the Email Agent
 python app/main.py
 ---
