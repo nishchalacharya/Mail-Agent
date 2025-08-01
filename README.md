@@ -4,6 +4,18 @@ This project builds an **AI email assistant** that reads incoming emails, unders
 
 ---
 
+## 📱 Screenshots
+
+
+ ![Screenshot1](screenshots/1.png)
+
+  
+
+ ![Screenshot2](screenshots/2.png)  
+  
+
+![Screenshot3](screenshots/3.png)  
+
 ## ✨ Features
 
 - ✅ **Fetch Emails**: Uses Gmail API to retrieve unread emails.
@@ -59,17 +71,7 @@ ai-email-agent/
 
 
 
-## 📱 Screenshots
 
-
- ![Screenshot1](screenshots/1.png)
-
-  
-
- ![Screenshot2](screenshots/2.png)  
-  
-
-![Screenshot3](screenshots/3.png)  
   
 
 
