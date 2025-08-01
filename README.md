@@ -62,14 +62,14 @@ ai-email-agent/
 ## 📱 Screenshots
 
 
-- ![Screenshot1](screenshots/1.png)
+ ![Screenshot1](screenshots/1.png)
 
   
 
-- ![Screenshot2](screenshots/2.png)  
+ ![Screenshot2](screenshots/2.png)  
   
 
-- ![Screenshot3](screenshots/3.png)  
+![Screenshot3](screenshots/3.png)  
   
 
 
