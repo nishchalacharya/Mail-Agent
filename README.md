@@ -58,7 +58,7 @@ ai-email-agent/
 
 
 
----
+
 ## 📱 Screenshots
 
 
@@ -73,7 +73,7 @@ ai-email-agent/
   
 
 
----
+
 ## ⚙️ Setup Instructions
 
 ### 1. ✅ Clone the Repo
